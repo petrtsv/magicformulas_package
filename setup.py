@@ -11,7 +11,7 @@ setuptools.setup(
     description="A python package package for managing formulas and computing errors.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/petrtsv/magicformulas_package",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
